@@ -8,7 +8,7 @@ import org.springframework.web.client.RestTemplate;
 import java.util.*;
 
 @RestController
-@RequestMapping("/")
+@RequestMapping("/api")
 public class NumberClassificationController {
 
     @GetMapping("/classify-number")
