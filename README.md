@@ -11,11 +11,12 @@ Deployed on Railway.app 🚀
 
 ## 🌍 Live API Endpoint
 🚀 **Base URL:**  
-[https://your-app-name.up.railway.app](https://your-app-name.up.railway.app)  // to be written
+https://hng12-number-classifier-production.up.railway.app/api/classify-number?number=371
 
 📌 Request:
 ```bash
-curl https://hng12-stage0-api-production-b29c.up.railway.app/
+curl https://hng12-number-classifier-production.up.railway.app/api/classify-number?number=371
+
 📌 Response:
   ```json
   {
