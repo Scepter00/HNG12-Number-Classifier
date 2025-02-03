@@ -42,10 +42,10 @@ curl https://hng12-number-classifier-production.up.railway.app/api/classify-numb
 🛠️ Running Locally
 Clone the repository:
 sh
-git clone https://github.com/your-username/number-classifier-api.git
+https://github.com/Scepter00/HNG12-Number-Classifier.git
 Navigate to the project:
 sh
-cd number-classifier-api
+cd HNG12-Number-Classifier
 Run the application:
 sh
 ./mvnw spring-boot:run
